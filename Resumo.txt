@@ -25,7 +25,6 @@ A implementação de medidores inteligentes enfrenta alguns desafios. Os custos 
 Conclusão 
 
 A implementação de medidores inteligentes traz claros benefícios em termos de confiabilidade e segurança das redes elétricas, contribuindo para uma gestão mais eficiente e sustentável da energia. Para maximizar esses benefícios, é necessário continuar investindo em tecnologias de segurança, políticas públicas adequadas e campanhas de conscientização para os consumidores. 
-
 Referências 
 
  
