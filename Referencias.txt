@@ -1,21 +1,33 @@
 Impacto da Implementação de Medidores Inteligentes na Confiabilidade e Segurança das Redes Elétricas
 
 Referências
+
 FERREIRA, M. C. A. F. Perspectivas e Desafios para a Implantação das Smarts Grids: um estudo de
 caso dos EUA, Portugal e Brasil. 2010. Monografia de Final de Curso. (Instituto de Economia, UFRJ).
 Rio de Janeiro: Universidade Federal do Rio de Janeiro, 2010.
+
 LAMIN, HUGO. Análise de Impacto Regulatório da Implantação de Redes Inteligentes no Brasil.
 2013. Tese (Doutorado em Engenharia Elétrica) - PPGENE.TD-076/13, Departamento de Engenharia
 Elétrica, Universidade de Brasília, Brasília, DF, 2013. 300p.
+
 DE FARIA, Diogo Mac Cord. O impacto das redes elétricas inteligentes no nível tarifário das
 distribuidoras de energia brasileiras. (Dissertação de Mestrado Profissional do Instituto de Tecnologia
 para o Desenvolvimento) Curitiba: Instituto Lactec, 2012.
+
 PAULA, A. O. Uma arquitetura de automação adaptada para Smart Grids contra ataques
 cibernéticos. (Dissertação de Mestrado Profissional, Departamento de Engenharia Elétrica,
 Universidade de Brasília). Brasília, DF, 2022
+
 RIVERA, R.; ESPOSITO, A. S.; TEIXERA, I. Redes elétricas inteligentes (smart grig): oportunidade
 para adensamento produtivo e tecnológico local. Banco Nacional do Desenvolvimento - BNDES,
 2013. Disponível em:
 https://web.bndes.gov.br/bib/jspui/bitstream/1408/2927/1/RB%2040%20Redes%20el
 %C3%A9tricas%20inteligentes_P.pdf. Acesso em: 30 ago. 2023.
+
 RODRIGUES, R. L. Desafios e Op
+ABRADEE - Associação Brasileira de Distribuidores de Energia Elétrica. (2017). "Impactos da implantação de sistemas de medição inteligente no Brasil." Revista Brasileira de Energia, 23(3), pp. 45-57. 
+
+ANEEL - Agência Nacional de Energia Elétrica. (2010). "Relatório sobre a implementação de redes inteligentes no Brasil." Relatório Técnico, pp. 1-120. 
+Barbosa, L. F., & Freitas, W. A. (2015). "Desafios na implementação de smart grids no Brasil." Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), pp. 1-10. 
+
+Lima, J. C., & Carvalho, A. P. (2018). "Smart grids no Brasil: Perspectivas e desafios." Encontro Nacional de Engenharia de Produção (ENEGEP), pp. 1-9.
